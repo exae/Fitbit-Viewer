@@ -1,0 +1,338 @@
+[
+{
+  "logId" : 27127828937,
+  "activityName" : "Marche",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 2,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 1,
+    "name" : "fairly"
+  },{
+    "minutes" : 4,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 115,
+  "calories" : 34,
+  "duration" : 614000,
+  "activeDuration" : 614000,
+  "steps" : 644,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Hors de portée",
+    "min" : 30,
+    "max" : 89,
+    "minutes" : 0
+  },{
+    "name" : "Brûlure de graisse",
+    "min" : 89,
+    "max" : 125,
+    "minutes" : 9
+  },{
+    "name" : "Cardio",
+    "min" : 125,
+    "max" : 152,
+    "minutes" : 1
+  },{
+    "name" : "Max.",
+    "min" : 152,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "12/03/19 14:32:21",
+  "startTime" : "12/02/19 11:37:33",
+  "originalStartTime" : "12/02/19 11:37:33",
+  "originalDuration" : 614000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 27236500612,
+  "activityName" : "Marche",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 9,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 116,
+  "calories" : 33,
+  "duration" : 615000,
+  "activeDuration" : 615000,
+  "steps" : 597,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Hors de portée",
+    "min" : 30,
+    "max" : 89,
+    "minutes" : 0
+  },{
+    "name" : "Brûlure de graisse",
+    "min" : 89,
+    "max" : 125,
+    "minutes" : 9
+  },{
+    "name" : "Cardio",
+    "min" : 125,
+    "max" : 152,
+    "minutes" : 1
+  },{
+    "name" : "Max.",
+    "min" : 152,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "12/07/19 13:30:59",
+  "startTime" : "12/07/19 12:15:34",
+  "originalStartTime" : "12/07/19 12:15:34",
+  "originalDuration" : 615000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 27236500616,
+  "activityName" : "Marche",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 16,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 121,
+  "calories" : 67,
+  "duration" : 1075000,
+  "activeDuration" : 1075000,
+  "steps" : 1259,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Hors de portée",
+    "min" : 30,
+    "max" : 89,
+    "minutes" : 0
+  },{
+    "name" : "Brûlure de graisse",
+    "min" : 89,
+    "max" : 125,
+    "minutes" : 13
+  },{
+    "name" : "Cardio",
+    "min" : 125,
+    "max" : 152,
+    "minutes" : 4
+  },{
+    "name" : "Max.",
+    "min" : 152,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "12/07/19 13:30:59",
+  "startTime" : "12/07/19 13:02:30",
+  "originalStartTime" : "12/07/19 13:02:30",
+  "originalDuration" : 1075000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 27262450470,
+  "activityName" : "Marche",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 1,
+    "name" : "fairly"
+  },{
+    "minutes" : 9,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 120,
+  "calories" : 57,
+  "duration" : 768000,
+  "activeDuration" : 768000,
+  "steps" : 1243,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Hors de portée",
+    "min" : 30,
+    "max" : 89,
+    "minutes" : 0
+  },{
+    "name" : "Brûlure de graisse",
+    "min" : 89,
+    "max" : 125,
+    "minutes" : 11
+  },{
+    "name" : "Cardio",
+    "min" : 125,
+    "max" : 152,
+    "minutes" : 2
+  },{
+    "name" : "Max.",
+    "min" : 152,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "12/09/19 03:56:04",
+  "startTime" : "12/09/19 03:29:56",
+  "originalStartTime" : "12/09/19 03:29:56",
+  "originalDuration" : 768000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 27265119791,
+  "activityName" : "Marche",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 20,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 118,
+  "calories" : 71,
+  "duration" : 1228000,
+  "activeDuration" : 1228000,
+  "steps" : 1208,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Hors de portée",
+    "min" : 30,
+    "max" : 89,
+    "minutes" : 0
+  },{
+    "name" : "Brûlure de graisse",
+    "min" : 89,
+    "max" : 125,
+    "minutes" : 19
+  },{
+    "name" : "Cardio",
+    "min" : 125,
+    "max" : 152,
+    "minutes" : 2
+  },{
+    "name" : "Max.",
+    "min" : 152,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "12/09/19 08:46:01",
+  "startTime" : "12/09/19 08:09:50",
+  "originalStartTime" : "12/09/19 08:09:50",
+  "originalDuration" : 1228000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 27265449271,
+  "activityName" : "Marche",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 14,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 119,
+  "calories" : 56,
+  "duration" : 922000,
+  "activeDuration" : 922000,
+  "steps" : 1065,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Hors de portée",
+    "min" : 30,
+    "max" : 89,
+    "minutes" : 0
+  },{
+    "name" : "Brûlure de graisse",
+    "min" : 89,
+    "max" : 125,
+    "minutes" : 14
+  },{
+    "name" : "Cardio",
+    "min" : 125,
+    "max" : 152,
+    "minutes" : 1
+  },{
+    "name" : "Max.",
+    "min" : 152,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "12/09/19 09:31:53",
+  "startTime" : "12/09/19 09:09:34",
+  "originalStartTime" : "12/09/19 09:09:34",
+  "originalDuration" : 922000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+}]
