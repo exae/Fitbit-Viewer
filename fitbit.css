@@ -1,0 +1,144 @@
+body {
+      background-color: #0D2939;
+      color: white;
+      fill: white;
+      font: 10px sans-serif;
+      margin: 1em;
+      padding-left: 150px;  
+}
+
+#left {
+  position: fixed;
+  height: 800px;
+  left: 0px;
+  top: 0px;
+  width: 150px;
+  padding: 10px;
+}
+
+#right {
+  width: 100%;
+  height: 600px;   
+}
+
+.title
+{
+	fill: white;
+    font: 1.7em Helvetica, Arial, sans-serif;	
+}
+
+
+/* Liste */
+
+.list-group {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border: 1px solid #ccc;
+    border-radius: .5em;
+    width: 15em;    
+    
+	overflow-y:scroll;
+	scrollbar-color: #E5A639 gray;
+  	scrollbar-width: thin;
+}
+
+.list-group li {
+    color : white;
+    border-top: 1px solid #ccc;
+    padding: .5em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.list-group li.active {
+	background-color: #70C1C3;
+}
+
+.list-group li:first-child {
+    border-top: 0;
+}
+
+.list-group .badge {
+    color: #fff;
+    font-size: 80%;
+    border-radius: 10em;
+    min-width: 1.5em;
+    padding: .25em;
+    text-align: center
+}
+
+.list-group .ms {
+    color: white;
+    border-radius: 10em;
+    min-width: 1.5em;
+    padding: .25em;
+    text-align: center
+}
+
+/* SELECT */
+
+/*
+.box {
+//  position: absolute;
+//  top: 50%;
+//  left: 50%;
+//  transform: translate(-50%, -50%);
+}
+*/
+
+.box select {
+  width: 150px;
+  font-size: 10px;
+  background-color: #0563af;
+  color: white;
+/*  padding: 12px;  */
+  border: none;
+  box-shadow: 0 5px 14px rgba(0, 0, 0, 0.2); 
+  -webkit-appearance: button;
+  appearance: button;
+  outline: none;
+}
+
+.box:hover::before {
+  color: rgba(255, 255, 255, 0.6);
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+
+
+/* CHART */
+
+/* axes blanc */
+.axis {
+   font: 10px sans-serif;   
+}
+ 
+.axis line {
+  stroke-dasharray: 2,2;  
+  stroke-opacity: 0.2;
+  stroke: white;  
+}
+ 
+.axis text
+{
+	fill: white;
+}
+
+.axis path
+{
+	fill: none;
+	stroke : white;  
+}
+
+
+.line {
+	  fill: none;
+  	  stroke-width: 2px;			
+}
+
+.overlay {
+	fill: none;
+	pointer-events: all
+}
