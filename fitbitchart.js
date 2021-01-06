@@ -372,10 +372,3 @@ class ChartFitbit {
 	        });    	
 	}	
 }
-
-console.log(mstomin(59000));     // 0:59
-console.log(mstomin(60000));     // 1:00  60 x 1000
-console.log(mstomin(61000));     // 1:01
-console.log(mstomin(60 * 60000));     // 1:01
-console.log(mstomin(60 * 60000 + 60000 ));     // 1:01
-                    
